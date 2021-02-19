@@ -1,0 +1,11 @@
+/Users/Macbook/Projects/10_operations_xyz/bin/Debug/netcoreapp3.1/10_operations_xyz
+/Users/Macbook/Projects/10_operations_xyz/bin/Debug/netcoreapp3.1/10_operations_xyz.deps.json
+/Users/Macbook/Projects/10_operations_xyz/bin/Debug/netcoreapp3.1/10_operations_xyz.runtimeconfig.json
+/Users/Macbook/Projects/10_operations_xyz/bin/Debug/netcoreapp3.1/10_operations_xyz.runtimeconfig.dev.json
+/Users/Macbook/Projects/10_operations_xyz/bin/Debug/netcoreapp3.1/10_operations_xyz.dll
+/Users/Macbook/Projects/10_operations_xyz/bin/Debug/netcoreapp3.1/10_operations_xyz.pdb
+/Users/Macbook/Projects/10_operations_xyz/obj/Debug/netcoreapp3.1/10_operations_xyz.csprojAssemblyReference.cache
+/Users/Macbook/Projects/10_operations_xyz/obj/Debug/netcoreapp3.1/10_operations_xyz.AssemblyInfoInputs.cache
+/Users/Macbook/Projects/10_operations_xyz/obj/Debug/netcoreapp3.1/10_operations_xyz.AssemblyInfo.cs
+/Users/Macbook/Projects/10_operations_xyz/obj/Debug/netcoreapp3.1/10_operations_xyz.dll
+/Users/Macbook/Projects/10_operations_xyz/obj/Debug/netcoreapp3.1/10_operations_xyz.pdb

@@ -1,0 +1,11 @@
+/Users/Macbook/Projects/01_sum_2/bin/Debug/netcoreapp3.1/01_sum_2
+/Users/Macbook/Projects/01_sum_2/bin/Debug/netcoreapp3.1/01_sum_2.deps.json
+/Users/Macbook/Projects/01_sum_2/bin/Debug/netcoreapp3.1/01_sum_2.runtimeconfig.json
+/Users/Macbook/Projects/01_sum_2/bin/Debug/netcoreapp3.1/01_sum_2.runtimeconfig.dev.json
+/Users/Macbook/Projects/01_sum_2/bin/Debug/netcoreapp3.1/01_sum_2.dll
+/Users/Macbook/Projects/01_sum_2/bin/Debug/netcoreapp3.1/01_sum_2.pdb
+/Users/Macbook/Projects/01_sum_2/obj/Debug/netcoreapp3.1/01_sum_2.csprojAssemblyReference.cache
+/Users/Macbook/Projects/01_sum_2/obj/Debug/netcoreapp3.1/01_sum_2.AssemblyInfoInputs.cache
+/Users/Macbook/Projects/01_sum_2/obj/Debug/netcoreapp3.1/01_sum_2.AssemblyInfo.cs
+/Users/Macbook/Projects/01_sum_2/obj/Debug/netcoreapp3.1/01_sum_2.dll
+/Users/Macbook/Projects/01_sum_2/obj/Debug/netcoreapp3.1/01_sum_2.pdb

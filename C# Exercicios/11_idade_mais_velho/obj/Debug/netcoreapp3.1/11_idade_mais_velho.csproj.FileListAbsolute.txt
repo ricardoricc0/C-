@@ -1,0 +1,11 @@
+/Users/Macbook/Projects/11_idade_mais_velho/bin/Debug/netcoreapp3.1/11_idade_mais_velho
+/Users/Macbook/Projects/11_idade_mais_velho/bin/Debug/netcoreapp3.1/11_idade_mais_velho.deps.json
+/Users/Macbook/Projects/11_idade_mais_velho/bin/Debug/netcoreapp3.1/11_idade_mais_velho.runtimeconfig.json
+/Users/Macbook/Projects/11_idade_mais_velho/bin/Debug/netcoreapp3.1/11_idade_mais_velho.runtimeconfig.dev.json
+/Users/Macbook/Projects/11_idade_mais_velho/bin/Debug/netcoreapp3.1/11_idade_mais_velho.dll
+/Users/Macbook/Projects/11_idade_mais_velho/bin/Debug/netcoreapp3.1/11_idade_mais_velho.pdb
+/Users/Macbook/Projects/11_idade_mais_velho/obj/Debug/netcoreapp3.1/11_idade_mais_velho.csprojAssemblyReference.cache
+/Users/Macbook/Projects/11_idade_mais_velho/obj/Debug/netcoreapp3.1/11_idade_mais_velho.AssemblyInfoInputs.cache
+/Users/Macbook/Projects/11_idade_mais_velho/obj/Debug/netcoreapp3.1/11_idade_mais_velho.AssemblyInfo.cs
+/Users/Macbook/Projects/11_idade_mais_velho/obj/Debug/netcoreapp3.1/11_idade_mais_velho.dll
+/Users/Macbook/Projects/11_idade_mais_velho/obj/Debug/netcoreapp3.1/11_idade_mais_velho.pdb

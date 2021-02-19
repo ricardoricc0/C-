@@ -1,0 +1,11 @@
+/Users/Macbook/Projects/12_quatro_colunas/bin/Debug/netcoreapp3.1/12_quatro_colunas
+/Users/Macbook/Projects/12_quatro_colunas/bin/Debug/netcoreapp3.1/12_quatro_colunas.deps.json
+/Users/Macbook/Projects/12_quatro_colunas/bin/Debug/netcoreapp3.1/12_quatro_colunas.runtimeconfig.json
+/Users/Macbook/Projects/12_quatro_colunas/bin/Debug/netcoreapp3.1/12_quatro_colunas.runtimeconfig.dev.json
+/Users/Macbook/Projects/12_quatro_colunas/bin/Debug/netcoreapp3.1/12_quatro_colunas.dll
+/Users/Macbook/Projects/12_quatro_colunas/bin/Debug/netcoreapp3.1/12_quatro_colunas.pdb
+/Users/Macbook/Projects/12_quatro_colunas/obj/Debug/netcoreapp3.1/12_quatro_colunas.csprojAssemblyReference.cache
+/Users/Macbook/Projects/12_quatro_colunas/obj/Debug/netcoreapp3.1/12_quatro_colunas.AssemblyInfoInputs.cache
+/Users/Macbook/Projects/12_quatro_colunas/obj/Debug/netcoreapp3.1/12_quatro_colunas.AssemblyInfo.cs
+/Users/Macbook/Projects/12_quatro_colunas/obj/Debug/netcoreapp3.1/12_quatro_colunas.dll
+/Users/Macbook/Projects/12_quatro_colunas/obj/Debug/netcoreapp3.1/12_quatro_colunas.pdb

@@ -1,0 +1,11 @@
+/Users/Macbook/Projects/14_celsius_to_kelvin_fahre/bin/Debug/netcoreapp3.1/14_celsius_to_kelvin_fahre
+/Users/Macbook/Projects/14_celsius_to_kelvin_fahre/bin/Debug/netcoreapp3.1/14_celsius_to_kelvin_fahre.deps.json
+/Users/Macbook/Projects/14_celsius_to_kelvin_fahre/bin/Debug/netcoreapp3.1/14_celsius_to_kelvin_fahre.runtimeconfig.json
+/Users/Macbook/Projects/14_celsius_to_kelvin_fahre/bin/Debug/netcoreapp3.1/14_celsius_to_kelvin_fahre.runtimeconfig.dev.json
+/Users/Macbook/Projects/14_celsius_to_kelvin_fahre/bin/Debug/netcoreapp3.1/14_celsius_to_kelvin_fahre.dll
+/Users/Macbook/Projects/14_celsius_to_kelvin_fahre/bin/Debug/netcoreapp3.1/14_celsius_to_kelvin_fahre.pdb
+/Users/Macbook/Projects/14_celsius_to_kelvin_fahre/obj/Debug/netcoreapp3.1/14_celsius_to_kelvin_fahre.csprojAssemblyReference.cache
+/Users/Macbook/Projects/14_celsius_to_kelvin_fahre/obj/Debug/netcoreapp3.1/14_celsius_to_kelvin_fahre.AssemblyInfoInputs.cache
+/Users/Macbook/Projects/14_celsius_to_kelvin_fahre/obj/Debug/netcoreapp3.1/14_celsius_to_kelvin_fahre.AssemblyInfo.cs
+/Users/Macbook/Projects/14_celsius_to_kelvin_fahre/obj/Debug/netcoreapp3.1/14_celsius_to_kelvin_fahre.dll
+/Users/Macbook/Projects/14_celsius_to_kelvin_fahre/obj/Debug/netcoreapp3.1/14_celsius_to_kelvin_fahre.pdb

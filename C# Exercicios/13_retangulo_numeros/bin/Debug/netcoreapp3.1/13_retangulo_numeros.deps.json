@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "13_retangulo_numeros/1.0.0": {
+        "runtime": {
+          "13_retangulo_numeros.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "13_retangulo_numeros/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

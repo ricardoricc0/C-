@@ -1,0 +1,11 @@
+/Users/Macbook/Projects/13_retangulo_numeros/bin/Debug/netcoreapp3.1/13_retangulo_numeros
+/Users/Macbook/Projects/13_retangulo_numeros/bin/Debug/netcoreapp3.1/13_retangulo_numeros.deps.json
+/Users/Macbook/Projects/13_retangulo_numeros/bin/Debug/netcoreapp3.1/13_retangulo_numeros.runtimeconfig.json
+/Users/Macbook/Projects/13_retangulo_numeros/bin/Debug/netcoreapp3.1/13_retangulo_numeros.runtimeconfig.dev.json
+/Users/Macbook/Projects/13_retangulo_numeros/bin/Debug/netcoreapp3.1/13_retangulo_numeros.dll
+/Users/Macbook/Projects/13_retangulo_numeros/bin/Debug/netcoreapp3.1/13_retangulo_numeros.pdb
+/Users/Macbook/Projects/13_retangulo_numeros/obj/Debug/netcoreapp3.1/13_retangulo_numeros.csprojAssemblyReference.cache
+/Users/Macbook/Projects/13_retangulo_numeros/obj/Debug/netcoreapp3.1/13_retangulo_numeros.AssemblyInfoInputs.cache
+/Users/Macbook/Projects/13_retangulo_numeros/obj/Debug/netcoreapp3.1/13_retangulo_numeros.AssemblyInfo.cs
+/Users/Macbook/Projects/13_retangulo_numeros/obj/Debug/netcoreapp3.1/13_retangulo_numeros.dll
+/Users/Macbook/Projects/13_retangulo_numeros/obj/Debug/netcoreapp3.1/13_retangulo_numeros.pdb

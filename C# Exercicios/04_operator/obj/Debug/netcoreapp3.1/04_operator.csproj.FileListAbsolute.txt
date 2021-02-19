@@ -1,0 +1,11 @@
+/Users/Macbook/Projects/04_operator/bin/Debug/netcoreapp3.1/04_operator
+/Users/Macbook/Projects/04_operator/bin/Debug/netcoreapp3.1/04_operator.deps.json
+/Users/Macbook/Projects/04_operator/bin/Debug/netcoreapp3.1/04_operator.runtimeconfig.json
+/Users/Macbook/Projects/04_operator/bin/Debug/netcoreapp3.1/04_operator.runtimeconfig.dev.json
+/Users/Macbook/Projects/04_operator/bin/Debug/netcoreapp3.1/04_operator.dll
+/Users/Macbook/Projects/04_operator/bin/Debug/netcoreapp3.1/04_operator.pdb
+/Users/Macbook/Projects/04_operator/obj/Debug/netcoreapp3.1/04_operator.csprojAssemblyReference.cache
+/Users/Macbook/Projects/04_operator/obj/Debug/netcoreapp3.1/04_operator.AssemblyInfoInputs.cache
+/Users/Macbook/Projects/04_operator/obj/Debug/netcoreapp3.1/04_operator.AssemblyInfo.cs
+/Users/Macbook/Projects/04_operator/obj/Debug/netcoreapp3.1/04_operator.dll
+/Users/Macbook/Projects/04_operator/obj/Debug/netcoreapp3.1/04_operator.pdb

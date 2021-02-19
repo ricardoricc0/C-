@@ -1,0 +1,11 @@
+/Users/Macbook/Projects/15_remove_character/bin/Debug/netcoreapp3.1/15_remove_character
+/Users/Macbook/Projects/15_remove_character/bin/Debug/netcoreapp3.1/15_remove_character.deps.json
+/Users/Macbook/Projects/15_remove_character/bin/Debug/netcoreapp3.1/15_remove_character.runtimeconfig.json
+/Users/Macbook/Projects/15_remove_character/bin/Debug/netcoreapp3.1/15_remove_character.runtimeconfig.dev.json
+/Users/Macbook/Projects/15_remove_character/bin/Debug/netcoreapp3.1/15_remove_character.dll
+/Users/Macbook/Projects/15_remove_character/bin/Debug/netcoreapp3.1/15_remove_character.pdb
+/Users/Macbook/Projects/15_remove_character/obj/Debug/netcoreapp3.1/15_remove_character.csprojAssemblyReference.cache
+/Users/Macbook/Projects/15_remove_character/obj/Debug/netcoreapp3.1/15_remove_character.AssemblyInfoInputs.cache
+/Users/Macbook/Projects/15_remove_character/obj/Debug/netcoreapp3.1/15_remove_character.AssemblyInfo.cs
+/Users/Macbook/Projects/15_remove_character/obj/Debug/netcoreapp3.1/15_remove_character.dll
+/Users/Macbook/Projects/15_remove_character/obj/Debug/netcoreapp3.1/15_remove_character.pdb

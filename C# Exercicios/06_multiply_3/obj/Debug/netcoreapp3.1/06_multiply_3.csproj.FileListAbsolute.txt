@@ -1,0 +1,11 @@
+/Users/Macbook/Projects/06_multiply_3/bin/Debug/netcoreapp3.1/06_multiply_3
+/Users/Macbook/Projects/06_multiply_3/bin/Debug/netcoreapp3.1/06_multiply_3.deps.json
+/Users/Macbook/Projects/06_multiply_3/bin/Debug/netcoreapp3.1/06_multiply_3.runtimeconfig.json
+/Users/Macbook/Projects/06_multiply_3/bin/Debug/netcoreapp3.1/06_multiply_3.runtimeconfig.dev.json
+/Users/Macbook/Projects/06_multiply_3/bin/Debug/netcoreapp3.1/06_multiply_3.dll
+/Users/Macbook/Projects/06_multiply_3/bin/Debug/netcoreapp3.1/06_multiply_3.pdb
+/Users/Macbook/Projects/06_multiply_3/obj/Debug/netcoreapp3.1/06_multiply_3.csprojAssemblyReference.cache
+/Users/Macbook/Projects/06_multiply_3/obj/Debug/netcoreapp3.1/06_multiply_3.AssemblyInfoInputs.cache
+/Users/Macbook/Projects/06_multiply_3/obj/Debug/netcoreapp3.1/06_multiply_3.AssemblyInfo.cs
+/Users/Macbook/Projects/06_multiply_3/obj/Debug/netcoreapp3.1/06_multiply_3.dll
+/Users/Macbook/Projects/06_multiply_3/obj/Debug/netcoreapp3.1/06_multiply_3.pdb

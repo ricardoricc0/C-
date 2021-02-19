@@ -1,0 +1,11 @@
+/Users/Macbook/Projects/08_multiply_calculator/bin/Debug/netcoreapp3.1/08_multiply_calculator
+/Users/Macbook/Projects/08_multiply_calculator/bin/Debug/netcoreapp3.1/08_multiply_calculator.deps.json
+/Users/Macbook/Projects/08_multiply_calculator/bin/Debug/netcoreapp3.1/08_multiply_calculator.runtimeconfig.json
+/Users/Macbook/Projects/08_multiply_calculator/bin/Debug/netcoreapp3.1/08_multiply_calculator.runtimeconfig.dev.json
+/Users/Macbook/Projects/08_multiply_calculator/bin/Debug/netcoreapp3.1/08_multiply_calculator.dll
+/Users/Macbook/Projects/08_multiply_calculator/bin/Debug/netcoreapp3.1/08_multiply_calculator.pdb
+/Users/Macbook/Projects/08_multiply_calculator/obj/Debug/netcoreapp3.1/08_multiply_calculator.csprojAssemblyReference.cache
+/Users/Macbook/Projects/08_multiply_calculator/obj/Debug/netcoreapp3.1/08_multiply_calculator.AssemblyInfoInputs.cache
+/Users/Macbook/Projects/08_multiply_calculator/obj/Debug/netcoreapp3.1/08_multiply_calculator.AssemblyInfo.cs
+/Users/Macbook/Projects/08_multiply_calculator/obj/Debug/netcoreapp3.1/08_multiply_calculator.dll
+/Users/Macbook/Projects/08_multiply_calculator/obj/Debug/netcoreapp3.1/08_multiply_calculator.pdb

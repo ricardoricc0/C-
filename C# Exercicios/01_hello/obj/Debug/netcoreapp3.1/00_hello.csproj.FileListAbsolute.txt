@@ -1,0 +1,11 @@
+/Users/Macbook/Projects/00_hello/bin/Debug/netcoreapp3.1/00_hello
+/Users/Macbook/Projects/00_hello/bin/Debug/netcoreapp3.1/00_hello.deps.json
+/Users/Macbook/Projects/00_hello/bin/Debug/netcoreapp3.1/00_hello.runtimeconfig.json
+/Users/Macbook/Projects/00_hello/bin/Debug/netcoreapp3.1/00_hello.runtimeconfig.dev.json
+/Users/Macbook/Projects/00_hello/bin/Debug/netcoreapp3.1/00_hello.dll
+/Users/Macbook/Projects/00_hello/bin/Debug/netcoreapp3.1/00_hello.pdb
+/Users/Macbook/Projects/00_hello/obj/Debug/netcoreapp3.1/00_hello.csprojAssemblyReference.cache
+/Users/Macbook/Projects/00_hello/obj/Debug/netcoreapp3.1/00_hello.AssemblyInfoInputs.cache
+/Users/Macbook/Projects/00_hello/obj/Debug/netcoreapp3.1/00_hello.AssemblyInfo.cs
+/Users/Macbook/Projects/00_hello/obj/Debug/netcoreapp3.1/00_hello.dll
+/Users/Macbook/Projects/00_hello/obj/Debug/netcoreapp3.1/00_hello.pdb

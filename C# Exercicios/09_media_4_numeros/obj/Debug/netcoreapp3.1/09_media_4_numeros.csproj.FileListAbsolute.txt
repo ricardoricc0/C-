@@ -1,0 +1,11 @@
+/Users/Macbook/Projects/09_media_4_numeros/bin/Debug/netcoreapp3.1/09_media_4_numeros
+/Users/Macbook/Projects/09_media_4_numeros/bin/Debug/netcoreapp3.1/09_media_4_numeros.deps.json
+/Users/Macbook/Projects/09_media_4_numeros/bin/Debug/netcoreapp3.1/09_media_4_numeros.runtimeconfig.json
+/Users/Macbook/Projects/09_media_4_numeros/bin/Debug/netcoreapp3.1/09_media_4_numeros.runtimeconfig.dev.json
+/Users/Macbook/Projects/09_media_4_numeros/bin/Debug/netcoreapp3.1/09_media_4_numeros.dll
+/Users/Macbook/Projects/09_media_4_numeros/bin/Debug/netcoreapp3.1/09_media_4_numeros.pdb
+/Users/Macbook/Projects/09_media_4_numeros/obj/Debug/netcoreapp3.1/09_media_4_numeros.csprojAssemblyReference.cache
+/Users/Macbook/Projects/09_media_4_numeros/obj/Debug/netcoreapp3.1/09_media_4_numeros.AssemblyInfoInputs.cache
+/Users/Macbook/Projects/09_media_4_numeros/obj/Debug/netcoreapp3.1/09_media_4_numeros.AssemblyInfo.cs
+/Users/Macbook/Projects/09_media_4_numeros/obj/Debug/netcoreapp3.1/09_media_4_numeros.dll
+/Users/Macbook/Projects/09_media_4_numeros/obj/Debug/netcoreapp3.1/09_media_4_numeros.pdb
